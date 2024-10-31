@@ -3,3 +3,6 @@ pandas
 numpy
 plotly
 openai  
+scikit-learn
+xgboost
+imbalanced-learn  
